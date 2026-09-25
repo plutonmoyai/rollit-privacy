@@ -1,2 +1,0 @@
-# rollit-privacy
-privacy-policy
